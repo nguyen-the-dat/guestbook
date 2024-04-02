@@ -1753,6 +1753,15 @@
         "tutorial",
         "doc"
       ]
+    },
+    {
+      "login": "nguyen-the-dat",
+      "name": "nguyen-the-dat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103869980?v=4",
+      "profile": "https://github.com/nguyen-the-dat",
+      "contributions": [
+        "business"
+      ]
     }
   ],
   "contributorsPerLine": 7,
